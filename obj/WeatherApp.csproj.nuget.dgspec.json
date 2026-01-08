@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\WeatherApp\\WeatherApp.csproj": {}
+    "C:\\Users\\user\\WeatherApplication\\WeatherApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\WeatherApp\\WeatherApp.csproj": {
+    "C:\\Users\\user\\WeatherApplication\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\WeatherApplication\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "C:\\Users\\user\\WeatherApp\\WeatherApp.csproj",
+        "projectPath": "C:\\Users\\user\\WeatherApplication\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\WeatherApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\WeatherApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
